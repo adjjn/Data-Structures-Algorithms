@@ -2,10 +2,9 @@
 
 Data structures and algorithms are fundamental concepts in computer science that deal with organizing and processing data efficiently. 
 
-Here's a brief overview:
 
 
-Data Structures:
+Here's a brief overview of Data Structures:
 
 Arrays: A collection of elements stored at contiguous memory locations.
 
@@ -23,7 +22,7 @@ Hash Tables: Data structures that store key-value pairs and provide efficient in
 
 
 
-Algorithms:
+Here's a brief overview of Algorithms:
 
 Searching Algorithms: Techniques for finding an element within a collection.
 
