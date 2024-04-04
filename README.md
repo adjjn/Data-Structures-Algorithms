@@ -79,5 +79,5 @@ A function that calls itself directly or indirectly.
 # Greedy Algorithms: 
 Algorithms that make locally optimal choices at each step with the hope of finding a global optimum.
 
-
+# To Sum Up:
 These concepts are crucial for designing efficient algorithms and building robust software systems. Understanding data structures and algorithms is essential for solving complex problems in various domains, including software development, artificial intelligence, and computational biology.
